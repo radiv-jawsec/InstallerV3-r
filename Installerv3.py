@@ -9,7 +9,7 @@ red='\033[31;1m'
 white='\033[37;1m'
 yellow='\033[33;1m'
 ###################################################
-# Youtube : Catatan Cyber
+# Taste My Hate
 ###################################################
 trap ctrl_c INT
 ctrl_c() {
@@ -22,7 +22,7 @@ echo  $yellow"[#]> Thank You For Using My
 Tools ... "
 sleep 1
 echo ""
-echo  $white"[#]> radiv-jawsec / Div007
+echo  $white"[#]> This Is Div007 MOTHERFUCKER
 Here ... "
 read enter
 exit
@@ -34,7 +34,7 @@ echo $white"Youtube : Catatan Cyber"
 echo $white"Blogspot : https://www.radivjaw-sec.my.id"
 echo $white"Github : github.com/radiv-jawsec"
 echo $white"thanks To : ALL MY FRIENDS & YOU"
-echo $white"thanks To : ALL TEAM HACKER INDONESIA"
+echo $white"thanks To : ALL TEAM DEFACER INDONESIA"
 
 =================================================
 echo  $yellow" 01) Red Hawk"
